@@ -1,0 +1,9 @@
+Segment,customer_count,total_orders,segment_revenue,avg_spend_per_customer,aov,revenue_contribution_pct
+Champions,1291,22128,11836647.74,9168.59,534.92,68.13
+Loyal Customers,1147,6844,2592612.65,2260.34,378.82,14.92
+Cannot Lose Them,224,2006,984286.42,4394.14,490.67,5.67
+At Risk,841,2445,933225.15,1109.66,381.69,5.37
+Potential Loyalists,415,865,391761.03,944.0,452.9,2.25
+Hibernating,1280,1516,322732.22,252.13,212.88,1.86
+Others,516,1004,258090.88,500.18,257.06,1.49
+New Customers,167,167,55448.17,332.02,332.02,0.32
